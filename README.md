@@ -1,2 +1,7 @@
-# Lista de Exercicios (Ponteiros-C)
-Repósitorio das respostas da lista de exercícios(ponteiro C) da matéria de Programação Avançada - 2024.1
+# Lista de Exercicios (Ponteiros C)
+Aluno(s): Pedro Manuel Pereira Chamorro
+Matrículas(s): 20220046668
+
+Matéria: Programação Avançada
+Semestre: 2024.1
+Código de turma: DCA1202
